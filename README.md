@@ -9,6 +9,7 @@ api id = 123456
 api_hash = addsflgkjntrweraneluirf
 ```
 go to [Bot-Father](t.me/BotFather) and craet new bot.
+
 in the [config.ini](https://github.com/M100achuz2/Delete-Links-TG-Bot/blob/main/bot/config_bot/config.ini) past the token-bot:
 ```bot_token = 123456789:cytewfinacaepjfaonirlsak```
 

@@ -2,13 +2,14 @@
 telegram-bot to delete tg-links from group's.
 
 edit the [config.ini](https://github.com/M100achuz2/Delete-Links-TG-Bot/blob/main/bot/config_bot/config.ini) file:
-go to my.telegram.org and create api-account.
+
+go to [my.telegram.org](https://my.telegram.org) and create api-account.
 edit this line's with you'r api-id's
 ```
 api id = 123456
 api_hash = addsflgkjntrweraneluirf
 ```
-go to [Bot-Father](t.me/BotFather) and craet new bot.
+go to [Bot-Father](https://t.me/BotFather) and craet new bot.
 
 in the [config.ini](https://github.com/M100achuz2/Delete-Links-TG-Bot/blob/main/bot/config_bot/config.ini) past the token-bot:
 ```bot_token = 123456789:cytewfinacaepjfaonirlsak```
